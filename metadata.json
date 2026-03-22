@@ -1,0 +1,5 @@
+{
+  "name": "Net Worth Guesser",
+  "description": "A fun interactive game where players guess which celebrity has a higher net worth.",
+  "requestFramePermissions": []
+}
